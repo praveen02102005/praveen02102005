@@ -5,12 +5,10 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Python+Programmer;Unity+%2B+Blender+Creator;PowerBI+%26+Tableau+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer;Python+Programmer;Machine+Learning+Enthusiast;Full+Stack+Learner;Unity+Developer;PowerBI+%26+Tableau+Learner" />
 </p>
 
 ---
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 🚀 About Me
 
@@ -28,52 +26,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,git,github,vscode,unity,blender"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,git,github,vscode,unity,blender" />
 
 </p>
 
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveen02102005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen02102005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=praveen02102005&theme=radical"/>
-
-</p>
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen02102005&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🧠 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
@@ -83,11 +40,43 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveen02102005&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen02102005&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen02102005&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen02102005&theme=tokyo-night"/>
+
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=praveen02102005&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=praveen02102005&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -127,7 +116,6 @@
 
 ✅ Build advanced AI projects  
 ✅ Master Full Stack Development  
-✅ Contribute to Open Source  
 ✅ Upload professional GitHub repositories  
 ✅ Become placement ready  
 ✅ Create industry-level applications  
@@ -136,6 +124,6 @@
 
 <p align="center">
 
-✨ <b>"Keep Learning • Keep Building • Keep Growing"</b> ✨
+✨ <b>Keep Learning • Keep Building • Keep Growing</b> ✨
 
 </p>
