@@ -100,7 +100,7 @@
 
 ---
 
-## 🎯 2future Goals
+## 🎯 future Goals
 
 ✅ Build advanced AI projects  
 ✅ Master Full Stack Development  
