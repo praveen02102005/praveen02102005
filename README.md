@@ -50,10 +50,9 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=praveen02102005&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=praveen02102005&theme=radical"/>
 
 </p>
-
 ---
 
 ## 📈 Contribution Graph
