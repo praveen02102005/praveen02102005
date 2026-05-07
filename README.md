@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer;Python+Programmer;Machine+Learning+Enthusiast;Full+Stack+Learner;Unity+Developer;PowerBI+%26+Tableau+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer;Python+Programmer;Machine+Learning+Enthusiast;Full+Stack+Learner;Unity+Developer;PowerBI+%26+Tableau+Learner" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,git,github,vscode,unity,blender"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,git,github,vscode,unity,blender" />
 
 </p>
 
@@ -44,9 +44,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=praveen02102005&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveen02102005&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen02102005&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen02102005&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
@@ -56,7 +56,27 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=praveen02102005"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen02102005&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen02102005&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=praveen02102005&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -67,11 +87,15 @@
 <p align="center">
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:example@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/praveen02102005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -85,6 +109,16 @@
 <img src="https://komarev.com/ghpvc/?username=praveen02102005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
+
+---
+
+## 🎯 2026 Goals
+
+✅ Build advanced AI projects  
+✅ Master Full Stack Development  
+✅ Upload professional GitHub repositories  
+✅ Become placement ready  
+✅ Create industry-level applications  
 
 ---
 
